@@ -7,6 +7,6 @@
 - **CN:** 强大的有声书工具，支持自定义源。
 - **ES:** Potente herramienta de audiolibros con soporte para fuentes personalizadas.
 
-### 📺 YouTube Premium MOD
+### 📺 YouTube Premium APK
 - **EN:** Ad-free experience with background play.
 - **ES:** Versión sin anuncios y reproducción en segundo plano.
