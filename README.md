@@ -21,6 +21,10 @@
 * **EN:** Highly customizable audiobook app supporting external sources. Note: Steep learning curve.
 * **CN:** 自由度极高的听书神器，支持导入自定义音源。注意：新手上手有一定门槛。
 
+### 🦆 鸭趣听书 (Yaqu Tingshu)
+* **EN:** Feature-rich audiobook app. This version automatically acquires ad-free listening time.
+* **CN:** 资源丰富的有声书应用。此版本自动获取免广告时长。
+
 ### 📖 阅读 (Legado)
 * **EN:** Open-source, ad-free reading app. Requires manually importing book sources.
 * **CN:** 纯净开源的阅读神器。软件本身不含内容，需自行导入书源。
